@@ -50,4 +50,5 @@ project/
 
 **Remember:** This is a simplified overview. There are many variations and tools you can use to implement MVC in Express.js. The key is to understand the core principles of separation of concerns and leverage Express.js features to structure your application effectively.
 
-
+**MVC Architecture /user route of this project**
+![image](https://github.com/sanu151/MVC/assets/68671274/17b02e62-08fe-4640-8801-2deb25b74a2d)
